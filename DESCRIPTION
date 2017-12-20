@@ -1,0 +1,13 @@
+Package: pastarwars
+Title: Pasta-Based Star Wars Name Generator
+Version: 1.0-0
+Description: See title.
+License: GamahCode License >= 1.2
+Depends:
+    R (>= 3.2.0)
+Imports:
+    tools
+ByteCompile: yes
+Author: Alan Smithee [aut, cre]
+Maintainer: Drew Schmidt <wrathematics@gmail.com>
+RoxygenNote: 5.0.1
